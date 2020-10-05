@@ -1,0 +1,2 @@
+# myface
+news.myface.az
